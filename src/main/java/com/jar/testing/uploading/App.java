@@ -13,4 +13,7 @@ public class App {
   public int getSubOfTwoNumber(int a, int b) {
     return a - b;
   }
+  public int getMulOfTwoNumber(int a, int b) {
+    return a * b;
+  }
 }
